@@ -17,7 +17,7 @@ Biruni Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Europe Coding Sch
 - **Teknolojiler:** Java / Python Integration
 - **Özellikler:** Dosya adlandırma otomasyonu, mükerrer veri koruması ve sistem optimizasyonu sağlayan masaüstü araç seti.
 
-### ☕ O-Bul – Restoran & Kafe Dijital Kampanya Platformu
+### ☕ Bul.com – Restoran & Kafe Dijital Kampanya Platformu
 - **Teknolojiler:** HTML5, CSS3, JavaScript, Responsive Web Design
 - **Özellikler:** Restoran ve kafelerin kampanya süreçlerini dijital ortama taşıyan, mobil ve masaüstü cihazlarla tam uyumlu (responsive) çalışan, kullanıcı dostu modern arayüz tasarımı ve dijital platform mimarisi.
 
