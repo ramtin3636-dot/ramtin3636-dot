@@ -7,7 +7,7 @@ Biruni Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Europe Coding Sch
 - **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Bootstrap / Tailwind
 - **Veritabanı & Araçlar:** PostgreSQL, MySQL, Git, GitHub, Docker
 
-### 🚀 Üzerinde Çalıştığım Projeler
+### 🚀 Kendi Fikirlerimle Çalıştığım Projelerim
 
 ### 🚘 BoğazAuto – Web Tabanlı Araç Kiralama Platformu
 - **Teknolojiler:** Java Spring Boot, React, PostgreSQL
