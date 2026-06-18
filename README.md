@@ -25,6 +25,14 @@ Biruni Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Europe Coding Sch
 - **Teknolojiler:** JavaScript (ES6+), DOM Manipulation, Backend API Integration
 - **Özellikler:** Kullanıcıdan alınan verilerin validasyonunu (doğruluğunu) anlık olarak kontrol eden, state yönetimini sağlayan ve toplanan verileri asenkron olarak backend servislerine güvenli bir şekilde aktaran gelişmiş form otomasyon sistemi.
 
+### 🎂 Interactive LED Birthday Simulator & Animation Engine 
+- **Fikir & Konsept:** Kullanıcı etkileşimli ve animasyon odaklı modern bir kutlama arayüzü inşa etmek; JavaScript zamanlama mekanizmaları ile CSS animasyon dizilimlerini (sequencing) senkronize bir şekilde yönetmek amacıyla geliştirdiğim bir frontend projesi.
+- **Teknolojiler:** JavaScript (ES6+), CSS3 Keyframe Animations, DOM Manipulation, Timing APIs (`setInterval / setTimeout`)
+- **Özellikler:** 
+  - 10 saniyelik dinamik bir LED geri sayım ve zamanlama yönetimi.
+  - Ekran köşelerinde asenkron sarsıntı efektine sahip sabit nesne (balon grupları) konumlandırması.
+  - Geri sayım sıfırlandığı an eş zamanlı olarak tetiklenen; dinamik konfeti patlaması, "Happy Birthday" durum (state) geçişi ve aşağıdan yukarıya doğru süzülerek ekran sınırlarını aşan hareketli parçacık (balon) animasyon motoru.
+    
 ## 📈 İletişim & Network
 - **LinkedIn:** [linkedin.com/in/ramtin-azimi-2b4271401](https://www.linkedin.com/in/ramtin-azimi-2b4271401)
 - **E-Posta:** ramtin3636@gmail.com
